@@ -1,0 +1,3 @@
+object Square {
+  println("SQUARE")
+}
